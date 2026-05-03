@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Harre Keerthanaa
 
-<!--
-**harre10/Harre10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst passionate about turning data into insights  
+📊 Skilled in Power BI, SQL, Python & Excel  
+🚀 Built real-world projects like Uber Ride Dashboard & AI Fake News Detection  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Excel  
+- Power BI  
+- SQL  
+- Python (Pandas, NumPy, Matplotlib)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+
+🚗 **Uber Ride Analysis Dashboard**
+- Built interactive dashboard using Power BI  
+- Analyzed ride demand, revenue & trends  
+
+🧠 **AI Fake News Detection (Healthcare)**
+- Implemented LSTM & NLP techniques  
+- Classified real vs fake healthcare news  
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/your-link  
